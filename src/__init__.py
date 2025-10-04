@@ -1,0 +1,6 @@
+__version__ = "0.0.0"
+__title__ = "Personal Budget Planner"
+__description__ = "API for creating a daily budget according to current day of month financial state."
+__author__ = "Felipe S. Mezzarana"
+__email__ = "spinelli.mezzarana@gmail.com"
+__license__ = "Proprietary"
